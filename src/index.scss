@@ -1,0 +1,5 @@
+$base-color: red; //变量
+$border-dark: rgba($base-color, 0.88);//变量
+.divrect {
+border: 1px solid $border-dark;
+}
